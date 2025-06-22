@@ -67,17 +67,6 @@ Zinc oxide (ZnO) is a highly promising material for ultraviolet (UV) photodetect
 | Detectivity    | Up to 10^12 Jones     |
 | Response Time  | 100 ms to few seconds |
 | Spectral Range | UV (200–400 nm)       |
-
----
-
-### 6. Literature References
-
-1. Hydrothermal ZnO Nanorod UV Detectors – [DOI:10.1177/1847980417702144](https://doi.org/10.1177/1847980417702144)
-2. Graphene–ZnO Hybrid Detectors – [DOI:10.1002/smll.201403625](https://doi.org/10.1002/smll.201403625)
-3. CBD ZnO Films – [DOI:10.1016/j.apsusc.2016.07.043](https://doi.org/10.1016/j.apsusc.2016.07.043)
-4. Fe-Doped ZnO NRs – [DOI:10.1049/mnl.2018.5342](https://doi.org/10.1049/mnl.2018.5342)
-5. ZnO/Graphene Hybrids Review – [DOI:10.1063/5.0060255](https://doi.org/10.1063/5.0060255)
-
 ---
 
 ### 7. Summary
