@@ -69,7 +69,7 @@ Zinc oxide (ZnO) is a highly promising material for ultraviolet (UV) photodetect
 | Spectral Range | UV (200–400 nm)       |
 ---
 
-### 7. Summary
+### 6. Summary
 
 ZnO's combination of material properties and tunable nanostructures makes it ideal for UV photodetectors. Hydrothermal and CBD methods offer scalable, cost-effective routes to functional nanostructures. Future research includes doping, heterojunction engineering, and integration with 2D materials.
 
