@@ -145,4 +145,3 @@ A **seed layer** is a thin, pre-deposited film of ZnO or a related oxide materia
 
 For researchers and developers, an optimized seed layer is critical for achieving high-performance ZnO nanostructure-based devices.
 
-> *Feel free to fork, clone, or contribute to this repository to enhance CBD processing protocols!*
