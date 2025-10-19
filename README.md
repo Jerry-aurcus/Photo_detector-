@@ -80,13 +80,13 @@ For implementation protocols, material sourcing, and simulation references, cont
 **26th june 
 # ZnO Chemical Bath Deposition (CBD) - Seed Layer Overview
 
-## 🌱 What is a Seed Layer?
+## What is a Seed Layer?
 
 A **seed layer** is a thin, pre-deposited film of ZnO or a related oxide material on the substrate, applied **before the actual CBD growth process**. It serves as a **nucleation platform** for the subsequent growth of ZnO nanostructures like nanorods or nanowires.
 
 ---
 
-## 🎯 Purpose of the Seed Layer in ZnO CBD
+## Purpose of the Seed Layer in ZnO CBD
 
 1. **Nucleation Sites**
    Provides uniform centers for crystal nucleation, leading to better-controlled and aligned growth of ZnO nanostructures.
@@ -102,7 +102,7 @@ A **seed layer** is a thin, pre-deposited film of ZnO or a related oxide materia
 
 ---
 
-## ⚙️ Methods for Seed Layer Deposition
+## Methods for Seed Layer Deposition
 
 * **Spin Coating / Dip Coating**
   Use a solution such as zinc acetate dihydrate in ethanol or isopropanol, followed by annealing.
@@ -118,7 +118,7 @@ A **seed layer** is a thin, pre-deposited film of ZnO or a related oxide materia
 
 ---
 
-## 🧪 CBD Process After Seed Layer Deposition
+## CBD Process After Seed Layer Deposition
 
 1. Substrate with seed layer is immersed in a chemical bath (e.g., zinc nitrate + hexamethylenetetramine).
 2. Temperature is maintained at \~60–90°C.
@@ -126,7 +126,7 @@ A **seed layer** is a thin, pre-deposited film of ZnO or a related oxide materia
 
 ---
 
-## ⚠️ Effects Without a Seed Layer
+## Effects Without a Seed Layer
 
 * Random and sparse ZnO growth
 * Poor orientation of nanostructures
@@ -134,7 +134,7 @@ A **seed layer** is a thin, pre-deposited film of ZnO or a related oxide materia
 
 ---
 
-## 🧵 Applications of Seeded ZnO Growth
+## Applications of Seeded ZnO Growth
 
 * UV Photodetectors
 * Piezoelectric Sensors
